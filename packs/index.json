@@ -1,3 +1,13 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "id": "english-hymns",
+      "name": "Starter hymns (English)",
+      "language": "English",
+      "description": "Well-known hymns: Amazing Grace, Blessed Assurance, It Is Well, Holy Holy Holy, Christmas and Easter hymns and more. All public domain.",
+      "count": 122,
+      "version": 1,
+      "file": "english-hymns.json"
+    }
+  ]
 }
