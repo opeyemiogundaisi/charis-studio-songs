@@ -1,0 +1,28 @@
+{
+ "pack": "community-english",
+ "name": "Shared by churches (English)",
+ "version": 1,
+ "songs": [
+  {
+   "title": "TEST from setup (will be removed)",
+   "author": "Charis test",
+   "copyright": "Shared by the writer",
+   "source": "Shared by Setup test (#1)",
+   "sections": [
+    {
+     "label": "Verse 1",
+     "lines": [
+      "This is a test line",
+      "And another line"
+     ]
+    },
+    {
+     "label": "Chorus",
+     "lines": [
+      "Test chorus line"
+     ]
+    }
+   ]
+  }
+ ]
+}

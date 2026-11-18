@@ -8,6 +8,15 @@
       "count": 122,
       "version": 1,
       "file": "english-hymns.json"
+    },
+    {
+      "id": "community-english",
+      "name": "Shared by churches (English)",
+      "language": "English",
+      "description": "Songs shared by churches using Charis Studio, checked before publishing.",
+      "count": 1,
+      "version": 1,
+      "file": "community-english.json"
     }
   ]
 }
